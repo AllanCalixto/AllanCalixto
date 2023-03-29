@@ -1,4 +1,4 @@
-# Olá👋 Me chamo Allan Calixto.
+# Olá👋 Me chamo Allan Calixto
 
 
 ## Sobre mim
