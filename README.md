@@ -1,7 +1,8 @@
-# Olá! Me chamo Allan Calixto 👋😉
+# Olá👋 Me chamo Allan Calixto.
+
 
 ## Sobre mim
-- Sou um desenvolvedor full stack, com foco em back-end utilizando Java e Spring Boot. Minha paixão pela tecnologia me mantém em constante aprendizado e busco sempre me atualizar sobre as novidades do mercado, buscando sempre a criação de soluções escaláveis e eficientes.
+#### Sou um desenvolvedor full stack, com foco em back-end utilizando Java e Spring Boot. Minha paixão pela tecnologia me mantém em constante aprendizado e busco sempre me atualizar sobre as novidades do mercado, buscando sempre a criação de soluções escaláveis e eficientes.
 
 ##
 
@@ -29,9 +30,8 @@
 
 </div>
 
-## Projetos recentes
-**Perfil em Desenvolvimento.
-
+##
+  
 ## Contato
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
