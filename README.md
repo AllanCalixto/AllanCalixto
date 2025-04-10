@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mim
 
-🎓 Formado em [sua formação, se quiser incluir]  
+🎓 Formado em Análise e desenvolvimento de sistemas.  
 👨‍💻 Desenvolvedor com foco em back-end, mas com experiência também em front-end  
 💡 Apaixonado por tecnologia, boas práticas e código limpo  
 📚 Sempre aprendendo e me atualizando com as tendências do mercado
